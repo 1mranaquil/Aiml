@@ -1,3 +1,5 @@
+#https://www.w3schools.com/python/python_ml_k-means.asp#:~:text=K%2Dmeans%20is%20an%20unsupervised,the%20variance%20in%20each%20cluster.
+
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
